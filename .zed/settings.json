@@ -1,0 +1,16 @@
+{
+  "completions": {
+    "lsp": true
+  },
+  "show_edit_predictions": true,
+  "disable_ai": false,
+  "terminal": {
+    "shell": {
+      "program": "sh"
+    }
+  },
+  "prettier": {
+    "allowed": false,
+    "parser": "solidity"
+  }
+}
